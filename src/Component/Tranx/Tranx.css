@@ -1,0 +1,67 @@
+.Tranx{
+    position: absolute;
+    top: 200px;
+    padding-left: 150px;
+}
+.Par{
+    text-align: center;
+    color: grey;
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-left: 150px;
+
+}
+.ButtonW{
+    height: 60px;
+    width: 130px;
+    background:grey;
+    border-radius: 30px;
+    color: white;
+    margin-top: 100px;
+    margin-left: 200px;
+    font-size: 20px;
+    font-family: sans-serif;
+    border: 1px solid grey;
+ 
+}
+
+.ButtonC{
+    height: 60px;
+    width: 130px;
+    background: #e3000f;
+    border-radius: 30px;
+    color: white;
+    /* margin-top: 200px; */
+    margin-left: 200px;
+    /* margin-top: 50px; */
+    font-size: 20px;
+    font-family: sans-serif;
+    border: 1px solid #CC1414; 
+}
+
+.ButtonCB{
+    height: 60px;
+    width: 130px;
+    background: #e3000f;
+    border-radius: 30px;
+    color: white;
+    margin-top: 100px;
+    margin-left: 250px;
+    font-size: 20px;
+    font-family: sans-serif;
+    border: 1px solid #CC1414;
+    
+}
+
+.ButtonE{
+    height: 60px;
+    width: 130px;
+    background:grey;
+    border-radius: 30px;
+    color: white;
+    margin-top: 100px;
+    margin-left: 250px;
+    font-size: 20px;
+    font-family: sans-serif;
+    border: 1px solid grey;
+}

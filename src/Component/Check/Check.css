@@ -1,0 +1,40 @@
+.Check{
+    position: absolute;
+    top: 200px;
+    padding-left: 150px;
+}
+
+.Bal{
+    text-align: center;
+    color: grey;
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-left: 300px;
+
+}
+.ButtonP{
+    height: 60px;
+    width: 130px;
+    background:#e3000f;;
+    border-radius: 30px;
+    color: white;
+    margin-top: 200px;
+    margin-left: 600px;
+    font-size: 20px;
+    font-family: sans-serif;
+    border: 1px solid #e3000f;
+    
+} 
+.ButtonU{
+    height: 60px;
+    width: 130px;
+    background:grey;
+    border-radius: 30px;
+    color: white;
+    margin-top: 50px;
+    margin-left: 600px;
+    font-size: 20px;
+    font-family: sans-serif;
+    border: 1px solid grey;
+    
+} 

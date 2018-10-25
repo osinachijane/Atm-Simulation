@@ -1,0 +1,92 @@
+.Amount{
+    position: absolute;
+    top: 200px;
+    padding-left: 150px;
+}
+.ButtonB{
+    height: 60px;
+    width: 130px;
+    background:grey;
+    border-radius: 30px;
+    color: white;
+    margin-top: 50px;
+    margin-left: 350px;
+    font-size: 20px;
+    font-family: sans-serif;
+    border: 1px solid grey;
+    
+}
+
+.ButtonL{
+    height: 60px;
+    width: 130px;
+    background:#e3000f;
+    border-radius: 30px;
+    color: white;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 20px;
+    font-family: sans-serif;
+    border: 1px solid#e3000f;
+    
+}
+.ButtonK{
+    height: 60px;
+    width: 130px;
+    background:grey;
+    border-radius: 30px;
+    color: white;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 20px;
+    font-family: sans-serif;
+    border: 1px solid grey;
+    
+}
+.ButtonG{
+    height: 60px;
+    width: 130px;
+    background:#e3000f;
+    border-radius: 30px;
+    color: white;
+    margin-top: 50px;
+    margin-left: 350px;
+    font-size: 20px;
+    font-family: sans-serif;
+    border: 1px solid#e3000f;
+    
+}
+.ButtonQ{
+    height: 60px;
+    width: 130px;
+    background:#e3000f;
+    border-radius: 30px;
+    color: white;
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 20px;
+    font-family: sans-serif;
+    border: 1px solid #e3000f;;
+    
+}
+.ButtonT{
+    height: 60px;
+    width: 130px;
+    background:grey;
+    border-radius: 30px;
+    color: white;
+    margin-top: 50px;
+    margin-left: 350px;
+    font-size: 20px;
+    font-family: sans-serif;
+    border: 1px solid grey;
+    
+} 
+.AMT{
+    text-align: center;
+    color: grey;
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-left: 130px;
+
+}

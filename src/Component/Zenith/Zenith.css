@@ -1,0 +1,16 @@
+.Zenith {
+    margin-top: 120px;
+    background-position: center;
+    width: 100%;
+}
+
+.img {
+    background-position: center;
+}
+
+@media (min-width:700px) {
+    .img {
+        background-position: center;
+        padding-left: 350px;
+    }
+}

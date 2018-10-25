@@ -1,0 +1,48 @@
+.Pin {
+    position: absolute;
+    top: 200px;
+    padding-left: 150px;
+}
+
+.Label{
+    font-family: sans-serif;
+    font-size: 25px;
+    color: gray;
+    font-weight: 40px;
+    margin-left: 300px;
+}
+.input{
+    width: 400px;
+    height: 50px;
+    border: 1px solid #CC1414;
+    margin-top: 20px;
+    opacity: 0.5;
+    margin-left: 300px;
+}
+
+.ButtonA{
+    height: 60px;
+    width: 130px;
+    background: grey;
+    border-radius: 30px;
+    color: white;
+    margin-top: 200px;
+    margin-left: 600px;
+    font-size: 20px;
+    font-family: sans-serif;
+    border: 1px solid grey;
+    
+}
+.ButtonX{
+    height: 60px;
+    width: 130px;
+    background: #E3000E;
+    border-radius: 30px;
+    color: white;
+    margin-top: 50px;
+    margin-left: 600px;
+    font-size: 20px;
+    font-family: sans-serif;
+    border: 1px solid #CC1414;
+    
+}
